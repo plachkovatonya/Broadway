@@ -3,16 +3,16 @@ html {
   text-align: center;
 }
 
-.home,
-.navmenu,
-.designed,
-.footer,
-#navmenu {
+.home {
   color: white
 }
 
 .navmenu {
   color: white;
+}
+
+.designed {
+  color: white
 }
 
 .home {
@@ -37,6 +37,10 @@ h2 {
   font-size: 32px;
 }
 
+.designed {
+  backround-image: url("../images/the-flatiron-building.png")
+}
+
 h3 {
   font-size: 23px;
 }
@@ -48,4 +52,8 @@ p {
 .footer {
   background-color: dimgray;
   font-size: 11px;
+}
+
+#navmenu {
+  color: white;
 }
