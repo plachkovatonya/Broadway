@@ -13,10 +13,11 @@ html {
 
 .designed {
   color: white
+  background-image: url("../images/the-flatiron-building.png");
 }
 
 .home {
-  background-image: url("../images/the-flatiron-building.png")
+  background-image: url("../images/the-flatiron-building.png");
 }
 
 h1,
@@ -35,10 +36,6 @@ h1 {
 
 h2 {
   font-size: 32px;
-}
-
-.designed {
-  backround-image: url("../images/the-flatiron-building.png")
 }
 
 h3 {
