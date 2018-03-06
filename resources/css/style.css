@@ -6,12 +6,13 @@ html {
 .home,
 .navmenu,
 .designed,
-.footer {
+.footer,
+#navmenu {
   color: white
 }
 
 .home {
-  background-image: url("../images/the-flatiron-building.png")
+  background-image: url("images/the-flatiron-building.png")
 }
 
 h1,
@@ -42,4 +43,5 @@ p {
 
 .footer {
   background-color: dimgray;
+  font-size: 11px;
 }
